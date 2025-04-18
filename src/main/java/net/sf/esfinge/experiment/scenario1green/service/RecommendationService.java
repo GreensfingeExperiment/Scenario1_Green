@@ -2,6 +2,7 @@ package net.sf.esfinge.experiment.scenario1green.service;
 
 public class RecommendationService {
 
+    //Use the Annotation like the example documentation
     public void findRecommendation(StringBuilder sb) {
         sb.append(findProduct())
                 .append(" received ")
