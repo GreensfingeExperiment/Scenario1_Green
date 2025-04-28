@@ -1,26 +1,18 @@
 package net.sf.esfinge.experiment.scenario1green.service;
 
+import net.sf.esfinge.experiment.scenario1green.repository.RecommendationRepository;
+
 public class RecommendationService {
 
-    //Use the Annotation like the example documentation
+    private final RecommendationRepository repository = new RecommendationRepository();
+
     public void findRecommendation(StringBuilder sb) {
-        sb.append(findProduct())
-                .append(" received ")
-                .append(findVisits())
-                .append(" visits this month.\n Also check out ")
-                .append(findOtherProduct())
-                .append("!");
+        repository.findProduct(sb);
+        sb.append(" received ");
+        repository.findVisits(sb);
+        sb.append(" visits this month.\n Also check out ");
+        repository.findOtherProduct(sb);
+        sb.append("!");
     }
 
-    private String findProduct() {
-        return "JBL 510BT Bluetooth Headphones";
-    }
-
-    public Integer findVisits() {
-        return 1231;
-    }
-
-    public String findOtherProduct() {
-        return "HyperX Cloud Stinger Headphones";
-    }
 }

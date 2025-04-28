@@ -1,0 +1,1000 @@
+Tenis Casual;106;Mochila Executiva
+Camera Digital;45;Liquidificador
+Maquina de Lavar Roupa;17;Monitor LED
+Caixa de Som Bluetooth;12;Smartphone
+Patins In-Line;178;Cafeteira Eletrica
+Impressora Wi-Fi;124;Aspirador de Po
+Relogio Inteligente;107;Tablet
+Ar Condicionado;90;Camera Digital
+Aspirador de Po;165;Impressora Wi-Fi
+Camera Digital;33;Ar Condicionado
+Console de Videogame;108;Projetor Portatil
+Tablet;111;Tenis de Corrida
+Smartphone;100;Geladeira Inverter
+Mochila Executiva;107;Smart TV
+Smartphone;165;Tenis de Corrida
+Projetor Portatil;101;Mouse Gamer
+Maquina de Lavar Roupa;105;Console de Videogame
+Liquidificador;56;Geladeira Inverter
+Relogio Inteligente;161;Teclado Mecanico
+Smartphone;44;Jaqueta Corta-Vento
+Cadeira Gamer;164;Tablet
+Monitor LED;18;Fone de Ouvido
+Aspirador de Po;196;Mochila Executiva
+Mochila Executiva;180;Tablet
+Caixa de Som Bluetooth;17;Bicicleta Eletrica
+Caixa de Som Bluetooth;22;Teclado Mecanico
+Console de Videogame;182;Fogao 4 Bocas
+Teclado Mecanico;62;Console de Videogame
+Tablet;67;Smart TV
+Geladeira Inverter;83;Jaqueta Corta-Vento
+Cadeira Gamer;130;Fone de Ouvido
+Maquina de Lavar Roupa;191;Monitor LED
+Notebook;131;Fogao 4 Bocas
+Patins In-Line;49;Smartphone
+Aspirador de Po;145;Impressora Wi-Fi
+Aspirador de Po;181;Jaqueta Corta-Vento
+Relogio Inteligente;55;Micro-ondas
+Cafeteira Eletrica;119;Console de Videogame
+Fone de Ouvido;43;Smart TV
+Micro-ondas;41;Notebook
+Ar Condicionado;27;Liquidificador
+Jaqueta Corta-Vento;90;Micro-ondas
+Bicicleta Eletrica;127;Notebook
+Smartphone;199;Impressora Wi-Fi
+Cadeira Gamer;186;Monitor LED
+Camera Digital;175;Patins In-Line
+Mouse Gamer;131;Ventilador
+Console de Videogame;172;Liquidificador
+Projetor Portatil;112;Relogio Inteligente
+Fogao 4 Bocas;106;Console de Videogame
+Fogao 4 Bocas;12;Ar Condicionado
+Tablet;47;Cadeira Gamer
+Mouse Gamer;151;Console de Videogame
+Micro-ondas;31;Bicicleta Eletrica
+Notebook;34;Projetor Portatil
+Cafeteira Eletrica;133;Bicicleta Eletrica
+Liquidificador;62;Tenis Casual
+Ar Condicionado;137;Cadeira Gamer
+Geladeira Inverter;171;Relogio Inteligente
+Mouse Gamer;198;Caixa de Som Bluetooth
+Smart TV;173;Projetor Portatil
+Bicicleta Eletrica;150;Camera Digital
+Console de Videogame;110;Monitor LED
+Fone de Ouvido;159;Ar Condicionado
+Caixa de Som Bluetooth;31;Jaqueta Corta-Vento
+Tablet;146;Teclado Mecanico
+Monitor LED;72;Caixa de Som Bluetooth
+Smart TV;146;Micro-ondas
+Bicicleta Eletrica;119;Mochila Executiva
+Tablet;98;Impressora Wi-Fi
+Ar Condicionado;46;Relogio Inteligente
+Aspirador de Po;89;Ventilador
+Ar Condicionado;62;Bicicleta Eletrica
+Smartphone;179;Aspirador de Po
+Tablet;51;Fogao 4 Bocas
+Tenis Casual;56;Relogio Inteligente
+Fone de Ouvido;141;Ventilador
+Notebook;33;Liquidificador
+Smartphone;68;Aspirador de Po
+Teclado Mecanico;173;Ar Condicionado
+Liquidificador;168;Fone de Ouvido
+Monitor LED;72;Geladeira Inverter
+Bicicleta Eletrica;171;Liquidificador
+Cafeteira Eletrica;92;Tenis Casual
+Liquidificador;11;Bicicleta Eletrica
+Console de Videogame;18;Ventilador
+Relogio Inteligente;90;Fogao 4 Bocas
+Teclado Mecanico;64;Bicicleta Eletrica
+Monitor LED;102;Maquina de Lavar Roupa
+Impressora Wi-Fi;181;Console de Videogame
+Impressora Wi-Fi;14;Cafeteira Eletrica
+Fone de Ouvido;146;Teclado Mecanico
+Console de Videogame;103;Smartphone
+Camera Digital;187;Fone de Ouvido
+Tablet;39;Bicicleta Eletrica
+Bicicleta Eletrica;110;Liquidificador
+Projetor Portatil;54;Geladeira Inverter
+Teclado Mecanico;152;Geladeira Inverter
+Patins In-Line;129;Relogio Inteligente
+Projetor Portatil;113;Jaqueta Corta-Vento
+Geladeira Inverter;137;Smartphone
+Tenis de Corrida;36;Monitor LED
+Bicicleta Eletrica;29;Micro-ondas
+Mochila Executiva;99;Projetor Portatil
+Mouse Gamer;172;Smartphone
+Projetor Portatil;166;Ventilador
+Jaqueta Corta-Vento;178;Camera Digital
+Notebook;146;Jaqueta Corta-Vento
+Camera Digital;153;Bicicleta Eletrica
+Impressora Wi-Fi;187;Monitor LED
+Fogao 4 Bocas;25;Smartphone
+Caixa de Som Bluetooth;82;Mochila Executiva
+Patins In-Line;153;Liquidificador
+Bicicleta Eletrica;84;Aspirador de Po
+Mochila Executiva;96;Camera Digital
+Geladeira Inverter;30;Bicicleta Eletrica
+Caixa de Som Bluetooth;81;Cafeteira Eletrica
+Camera Digital;116;Fogao 4 Bocas
+Projetor Portatil;61;Caixa de Som Bluetooth
+Jaqueta Corta-Vento;192;Smart TV
+Impressora Wi-Fi;119;Cafeteira Eletrica
+Ar Condicionado;21;Monitor LED
+Console de Videogame;107;Maquina de Lavar Roupa
+Smartphone;172;Tenis Casual
+Ar Condicionado;186;Micro-ondas
+Liquidificador;51;Tablet
+Notebook;113;Fogao 4 Bocas
+Patins In-Line;125;Mochila Executiva
+Tablet;154;Teclado Mecanico
+Geladeira Inverter;17;Tenis Casual
+Ar Condicionado;11;Teclado Mecanico
+Liquidificador;16;Mochila Executiva
+Monitor LED;176;Maquina de Lavar Roupa
+Mouse Gamer;53;Teclado Mecanico
+Mouse Gamer;69;Ar Condicionado
+Tenis Casual;133;Mouse Gamer
+Tenis de Corrida;58;Liquidificador
+Tablet;188;Mouse Gamer
+Smart TV;160;Patins In-Line
+Mouse Gamer;192;Relogio Inteligente
+Bicicleta Eletrica;14;Maquina de Lavar Roupa
+Cadeira Gamer;104;Impressora Wi-Fi
+Impressora Wi-Fi;88;Tenis Casual
+Patins In-Line;77;Cadeira Gamer
+Mouse Gamer;82;Ventilador
+Teclado Mecanico;200;Micro-ondas
+Tenis de Corrida;144;Mouse Gamer
+Cafeteira Eletrica;25;Impressora Wi-Fi
+Tablet;176;Patins In-Line
+Relogio Inteligente;187;Notebook
+Mochila Executiva;142;Cafeteira Eletrica
+Maquina de Lavar Roupa;166;Tablet
+Bicicleta Eletrica;184;Projetor Portatil
+Liquidificador;200;Smartphone
+Console de Videogame;194;Projetor Portatil
+Liquidificador;167;Mouse Gamer
+Ar Condicionado;75;Notebook
+Notebook;38;Cadeira Gamer
+Tablet;129;Mouse Gamer
+Monitor LED;183;Teclado Mecanico
+Smart TV;16;Maquina de Lavar Roupa
+Bicicleta Eletrica;175;Teclado Mecanico
+Micro-ondas;147;Aspirador de Po
+Caixa de Som Bluetooth;70;Monitor LED
+Cadeira Gamer;196;Cafeteira Eletrica
+Patins In-Line;97;Camera Digital
+Tablet;163;Impressora Wi-Fi
+Tenis de Corrida;130;Aspirador de Po
+Tenis de Corrida;148;Camera Digital
+Console de Videogame;168;Ventilador
+Notebook;41;Bicicleta Eletrica
+Relogio Inteligente;25;Cadeira Gamer
+Tablet;86;Console de Videogame
+Teclado Mecanico;135;Fogao 4 Bocas
+Tenis Casual;164;Cafeteira Eletrica
+Console de Videogame;71;Patins In-Line
+Console de Videogame;131;Impressora Wi-Fi
+Smartphone;189;Ar Condicionado
+Tenis Casual;175;Geladeira Inverter
+Ar Condicionado;160;Maquina de Lavar Roupa
+Camera Digital;111;Console de Videogame
+Tablet;73;Fogao 4 Bocas
+Cadeira Gamer;62;Ar Condicionado
+Ventilador;18;Smartphone
+Micro-ondas;193;Tenis de Corrida
+Bicicleta Eletrica;136;Impressora Wi-Fi
+Camera Digital;168;Cafeteira Eletrica
+Notebook;191;Relogio Inteligente
+Tenis Casual;20;Aspirador de Po
+Caixa de Som Bluetooth;130;Fogao 4 Bocas
+Fone de Ouvido;98;Tablet
+Camera Digital;178;Bicicleta Eletrica
+Notebook;102;Smart TV
+Tenis Casual;74;Impressora Wi-Fi
+Mochila Executiva;46;Caixa de Som Bluetooth
+Relogio Inteligente;195;Projetor Portatil
+Tenis Casual;129;Patins In-Line
+Impressora Wi-Fi;87;Cafeteira Eletrica
+Teclado Mecanico;179;Camera Digital
+Micro-ondas;64;Maquina de Lavar Roupa
+Impressora Wi-Fi;149;Micro-ondas
+Monitor LED;200;Notebook
+Geladeira Inverter;118;Cafeteira Eletrica
+Liquidificador;72;Notebook
+Teclado Mecanico;103;Relogio Inteligente
+Smartphone;93;Teclado Mecanico
+Tablet;182;Micro-ondas
+Smartphone;13;Relogio Inteligente
+Patins In-Line;187;Console de Videogame
+Geladeira Inverter;177;Tablet
+Ventilador;124;Relogio Inteligente
+Patins In-Line;39;Fone de Ouvido
+Smart TV;122;Relogio Inteligente
+Smartphone;146;Smart TV
+Impressora Wi-Fi;81;Aspirador de Po
+Relogio Inteligente;37;Tablet
+Camera Digital;51;Mouse Gamer
+Mochila Executiva;128;Camera Digital
+Micro-ondas;49;Smartphone
+Camera Digital;45;Monitor LED
+Tenis Casual;178;Micro-ondas
+Teclado Mecanico;129;Caixa de Som Bluetooth
+Relogio Inteligente;66;Ar Condicionado
+Micro-ondas;19;Smart TV
+Ar Condicionado;55;Console de Videogame
+Aspirador de Po;76;Ventilador
+Liquidificador;38;Tenis de Corrida
+Patins In-Line;11;Liquidificador
+Notebook;48;Camera Digital
+Cafeteira Eletrica;119;Teclado Mecanico
+Teclado Mecanico;47;Aspirador de Po
+Aspirador de Po;100;Patins In-Line
+Aspirador de Po;102;Console de Videogame
+Geladeira Inverter;131;Projetor Portatil
+Relogio Inteligente;50;Tablet
+Tablet;94;Teclado Mecanico
+Ventilador;22;Tablet
+Geladeira Inverter;90;Cafeteira Eletrica
+Liquidificador;146;Notebook
+Teclado Mecanico;97;Aspirador de Po
+Cadeira Gamer;132;Console de Videogame
+Relogio Inteligente;135;Ventilador
+Tenis Casual;22;Liquidificador
+Mouse Gamer;192;Console de Videogame
+Tenis de Corrida;23;Cadeira Gamer
+Fogao 4 Bocas;197;Caixa de Som Bluetooth
+Smart TV;111;Liquidificador
+Smart TV;22;Impressora Wi-Fi
+Mochila Executiva;186;Camera Digital
+Monitor LED;105;Mouse Gamer
+Maquina de Lavar Roupa;89;Aspirador de Po
+Relogio Inteligente;50;Geladeira Inverter
+Tenis de Corrida;159;Projetor Portatil
+Fone de Ouvido;117;Cafeteira Eletrica
+Camera Digital;162;Teclado Mecanico
+Geladeira Inverter;68;Caixa de Som Bluetooth
+Maquina de Lavar Roupa;48;Cafeteira Eletrica
+Micro-ondas;64;Mochila Executiva
+Tenis Casual;198;Projetor Portatil
+Tenis Casual;139;Fone de Ouvido
+Relogio Inteligente;137;Teclado Mecanico
+Camera Digital;96;Fogao 4 Bocas
+Teclado Mecanico;94;Monitor LED
+Notebook;153;Console de Videogame
+Projetor Portatil;147;Tablet
+Patins In-Line;90;Micro-ondas
+Tenis Casual;81;Fogao 4 Bocas
+Aspirador de Po;30;Console de Videogame
+Aspirador de Po;83;Cadeira Gamer
+Jaqueta Corta-Vento;171;Tenis de Corrida
+Geladeira Inverter;200;Fone de Ouvido
+Fone de Ouvido;37;Tenis de Corrida
+Smartphone;67;Notebook
+Camera Digital;183;Cafeteira Eletrica
+Console de Videogame;41;Liquidificador
+Mouse Gamer;51;Caixa de Som Bluetooth
+Teclado Mecanico;175;Monitor LED
+Jaqueta Corta-Vento;183;Geladeira Inverter
+Micro-ondas;138;Bicicleta Eletrica
+Camera Digital;88;Bicicleta Eletrica
+Ventilador;71;Cafeteira Eletrica
+Mochila Executiva;103;Aspirador de Po
+Cafeteira Eletrica;142;Patins In-Line
+Smart TV;16;Mouse Gamer
+Maquina de Lavar Roupa;189;Micro-ondas
+Patins In-Line;174;Tablet
+Aspirador de Po;30;Console de Videogame
+Maquina de Lavar Roupa;28;Tenis Casual
+Patins In-Line;133;Smartphone
+Cadeira Gamer;28;Smartphone
+Relogio Inteligente;81;Projetor Portatil
+Liquidificador;63;Mochila Executiva
+Monitor LED;171;Aspirador de Po
+Maquina de Lavar Roupa;96;Geladeira Inverter
+Tenis Casual;134;Mouse Gamer
+Fogao 4 Bocas;19;Notebook
+Impressora Wi-Fi;176;Notebook
+Jaqueta Corta-Vento;199;Fone de Ouvido
+Ar Condicionado;53;Cadeira Gamer
+Smartphone;130;Jaqueta Corta-Vento
+Patins In-Line;76;Tenis Casual
+Cafeteira Eletrica;13;Ar Condicionado
+Liquidificador;75;Cadeira Gamer
+Liquidificador;68;Mochila Executiva
+Fone de Ouvido;178;Maquina de Lavar Roupa
+Relogio Inteligente;164;Teclado Mecanico
+Mouse Gamer;40;Camera Digital
+Projetor Portatil;34;Caixa de Som Bluetooth
+Bicicleta Eletrica;22;Liquidificador
+Aspirador de Po;146;Camera Digital
+Projetor Portatil;151;Ar Condicionado
+Bicicleta Eletrica;158;Cafeteira Eletrica
+Fogao 4 Bocas;112;Jaqueta Corta-Vento
+Patins In-Line;107;Maquina de Lavar Roupa
+Tenis de Corrida;164;Patins In-Line
+Fogao 4 Bocas;42;Monitor LED
+Micro-ondas;170;Maquina de Lavar Roupa
+Bicicleta Eletrica;196;Smartphone
+Maquina de Lavar Roupa;18;Mouse Gamer
+Micro-ondas;87;Impressora Wi-Fi
+Camera Digital;60;Fogao 4 Bocas
+Smart TV;118;Mouse Gamer
+Teclado Mecanico;190;Relogio Inteligente
+Aspirador de Po;192;Cafeteira Eletrica
+Mouse Gamer;37;Cadeira Gamer
+Smart TV;102;Patins In-Line
+Ar Condicionado;67;Tablet
+Teclado Mecanico;83;Cadeira Gamer
+Smart TV;157;Projetor Portatil
+Maquina de Lavar Roupa;100;Bicicleta Eletrica
+Monitor LED;176;Mochila Executiva
+Fogao 4 Bocas;152;Tenis de Corrida
+Ventilador;140;Impressora Wi-Fi
+Mochila Executiva;158;Fone de Ouvido
+Camera Digital;165;Cadeira Gamer
+Impressora Wi-Fi;185;Tenis Casual
+Jaqueta Corta-Vento;100;Cadeira Gamer
+Aspirador de Po;144;Tablet
+Ar Condicionado;38;Cafeteira Eletrica
+Ventilador;166;Fogao 4 Bocas
+Bicicleta Eletrica;118;Monitor LED
+Mouse Gamer;39;Maquina de Lavar Roupa
+Teclado Mecanico;199;Bicicleta Eletrica
+Aspirador de Po;132;Tenis Casual
+Liquidificador;34;Mochila Executiva
+Smartphone;160;Console de Videogame
+Cafeteira Eletrica;44;Teclado Mecanico
+Projetor Portatil;74;Smart TV
+Cadeira Gamer;24;Tenis Casual
+Geladeira Inverter;42;Tenis Casual
+Console de Videogame;52;Impressora Wi-Fi
+Projetor Portatil;130;Console de Videogame
+Cadeira Gamer;145;Tenis Casual
+Jaqueta Corta-Vento;31;Impressora Wi-Fi
+Mochila Executiva;136;Bicicleta Eletrica
+Liquidificador;177;Ar Condicionado
+Smartphone;34;Jaqueta Corta-Vento
+Smart TV;29;Fone de Ouvido
+Impressora Wi-Fi;85;Caixa de Som Bluetooth
+Fone de Ouvido;183;Geladeira Inverter
+Smartphone;47;Patins In-Line
+Patins In-Line;99;Tablet
+Aspirador de Po;69;Geladeira Inverter
+Mochila Executiva;131;Console de Videogame
+Mouse Gamer;17;Caixa de Som Bluetooth
+Tenis Casual;154;Fone de Ouvido
+Maquina de Lavar Roupa;171;Monitor LED
+Micro-ondas;188;Teclado Mecanico
+Ventilador;94;Teclado Mecanico
+Cafeteira Eletrica;26;Mochila Executiva
+Monitor LED;75;Fone de Ouvido
+Fone de Ouvido;105;Aspirador de Po
+Micro-ondas;200;Teclado Mecanico
+Monitor LED;134;Console de Videogame
+Micro-ondas;161;Patins In-Line
+Mochila Executiva;118;Mouse Gamer
+Maquina de Lavar Roupa;72;Micro-ondas
+Teclado Mecanico;74;Projetor Portatil
+Tenis Casual;191;Ventilador
+Projetor Portatil;68;Impressora Wi-Fi
+Smart TV;133;Caixa de Som Bluetooth
+Smartphone;91;Fone de Ouvido
+Tenis Casual;177;Smartphone
+Teclado Mecanico;12;Relogio Inteligente
+Impressora Wi-Fi;141;Fone de Ouvido
+Aspirador de Po;112;Teclado Mecanico
+Smartphone;10;Tablet
+Console de Videogame;101;Camera Digital
+Smart TV;126;Ventilador
+Smartphone;149;Notebook
+Maquina de Lavar Roupa;43;Tenis Casual
+Liquidificador;70;Caixa de Som Bluetooth
+Ventilador;149;Monitor LED
+Console de Videogame;185;Bicicleta Eletrica
+Smart TV;101;Relogio Inteligente
+Smartphone;119;Ar Condicionado
+Patins In-Line;181;Console de Videogame
+Ar Condicionado;137;Maquina de Lavar Roupa
+Camera Digital;149;Mochila Executiva
+Ventilador;54;Teclado Mecanico
+Projetor Portatil;62;Patins In-Line
+Bicicleta Eletrica;120;Notebook
+Liquidificador;177;Fone de Ouvido
+Maquina de Lavar Roupa;160;Bicicleta Eletrica
+Mochila Executiva;187;Tablet
+Cadeira Gamer;169;Tenis de Corrida
+Fogao 4 Bocas;114;Tablet
+Cadeira Gamer;153;Camera Digital
+Aspirador de Po;160;Projetor Portatil
+Ventilador;10;Maquina de Lavar Roupa
+Cafeteira Eletrica;121;Fone de Ouvido
+Tablet;158;Caixa de Som Bluetooth
+Tablet;142;Maquina de Lavar Roupa
+Caixa de Som Bluetooth;22;Cafeteira Eletrica
+Monitor LED;182;Ventilador
+Smart TV;94;Relogio Inteligente
+Impressora Wi-Fi;108;Smart TV
+Cadeira Gamer;94;Mochila Executiva
+Caixa de Som Bluetooth;111;Ar Condicionado
+Impressora Wi-Fi;177;Fone de Ouvido
+Impressora Wi-Fi;123;Bicicleta Eletrica
+Teclado Mecanico;31;Fogao 4 Bocas
+Mouse Gamer;189;Projetor Portatil
+Bicicleta Eletrica;23;Mochila Executiva
+Impressora Wi-Fi;129;Camera Digital
+Monitor LED;115;Patins In-Line
+Mouse Gamer;121;Tenis Casual
+Maquina de Lavar Roupa;59;Relogio Inteligente
+Patins In-Line;94;Teclado Mecanico
+Fone de Ouvido;19;Cafeteira Eletrica
+Notebook;28;Aspirador de Po
+Liquidificador;12;Jaqueta Corta-Vento
+Console de Videogame;16;Camera Digital
+Console de Videogame;109;Tablet
+Projetor Portatil;175;Camera Digital
+Projetor Portatil;32;Cadeira Gamer
+Cadeira Gamer;36;Fogao 4 Bocas
+Impressora Wi-Fi;27;Aspirador de Po
+Fogao 4 Bocas;38;Patins In-Line
+Projetor Portatil;138;Bicicleta Eletrica
+Teclado Mecanico;65;Fogao 4 Bocas
+Cafeteira Eletrica;79;Teclado Mecanico
+Console de Videogame;159;Tenis Casual
+Fone de Ouvido;87;Notebook
+Jaqueta Corta-Vento;135;Aspirador de Po
+Bicicleta Eletrica;117;Tenis de Corrida
+Tenis Casual;187;Ar Condicionado
+Liquidificador;170;Ventilador
+Jaqueta Corta-Vento;116;Notebook
+Caixa de Som Bluetooth;15;Geladeira Inverter
+Maquina de Lavar Roupa;144;Camera Digital
+Projetor Portatil;180;Tenis Casual
+Tenis de Corrida;101;Relogio Inteligente
+Jaqueta Corta-Vento;156;Fogao 4 Bocas
+Mochila Executiva;48;Ventilador
+Maquina de Lavar Roupa;91;Cadeira Gamer
+Console de Videogame;38;Fogao 4 Bocas
+Micro-ondas;147;Cadeira Gamer
+Micro-ondas;128;Fogao 4 Bocas
+Tablet;34;Tenis Casual
+Tablet;173;Aspirador de Po
+Console de Videogame;52;Cafeteira Eletrica
+Cafeteira Eletrica;180;Bicicleta Eletrica
+Fone de Ouvido;137;Cafeteira Eletrica
+Smart TV;80;Tablet
+Ar Condicionado;55;Bicicleta Eletrica
+Bicicleta Eletrica;138;Micro-ondas
+Teclado Mecanico;146;Geladeira Inverter
+Notebook;19;Teclado Mecanico
+Monitor LED;188;Geladeira Inverter
+Mouse Gamer;116;Aspirador de Po
+Smartphone;142;Micro-ondas
+Cafeteira Eletrica;128;Smart TV
+Cadeira Gamer;187;Camera Digital
+Geladeira Inverter;112;Fogao 4 Bocas
+Maquina de Lavar Roupa;131;Tablet
+Mochila Executiva;63;Caixa de Som Bluetooth
+Tablet;136;Notebook
+Ventilador;176;Notebook
+Teclado Mecanico;10;Ar Condicionado
+Tenis Casual;173;Relogio Inteligente
+Console de Videogame;75;Monitor LED
+Cafeteira Eletrica;175;Ar Condicionado
+Tenis de Corrida;130;Teclado Mecanico
+Ar Condicionado;97;Fogao 4 Bocas
+Notebook;31;Liquidificador
+Fogao 4 Bocas;94;Cadeira Gamer
+Camera Digital;63;Notebook
+Camera Digital;109;Projetor Portatil
+Notebook;146;Tenis de Corrida
+Projetor Portatil;165;Notebook
+Caixa de Som Bluetooth;84;Tenis Casual
+Caixa de Som Bluetooth;119;Tenis Casual
+Ar Condicionado;64;Console de Videogame
+Tenis de Corrida;85;Micro-ondas
+Projetor Portatil;31;Console de Videogame
+Liquidificador;74;Cadeira Gamer
+Projetor Portatil;108;Geladeira Inverter
+Smartphone;155;Notebook
+Fogao 4 Bocas;140;Relogio Inteligente
+Camera Digital;168;Console de Videogame
+Geladeira Inverter;50;Micro-ondas
+Mouse Gamer;99;Smartphone
+Projetor Portatil;155;Tablet
+Camera Digital;94;Fone de Ouvido
+Projetor Portatil;130;Camera Digital
+Liquidificador;88;Relogio Inteligente
+Tablet;162;Mouse Gamer
+Relogio Inteligente;109;Fone de Ouvido
+Cadeira Gamer;22;Liquidificador
+Jaqueta Corta-Vento;72;Relogio Inteligente
+Relogio Inteligente;86;Liquidificador
+Fogao 4 Bocas;120;Mochila Executiva
+Ar Condicionado;67;Maquina de Lavar Roupa
+Console de Videogame;188;Caixa de Som Bluetooth
+Maquina de Lavar Roupa;96;Tenis Casual
+Notebook;35;Cafeteira Eletrica
+Tablet;12;Smart TV
+Ventilador;51;Caixa de Som Bluetooth
+Tenis de Corrida;83;Fogao 4 Bocas
+Cadeira Gamer;69;Caixa de Som Bluetooth
+Geladeira Inverter;140;Tablet
+Notebook;187;Tablet
+Geladeira Inverter;123;Fone de Ouvido
+Bicicleta Eletrica;151;Relogio Inteligente
+Mochila Executiva;66;Aspirador de Po
+Tablet;175;Cafeteira Eletrica
+Bicicleta Eletrica;125;Teclado Mecanico
+Patins In-Line;10;Mochila Executiva
+Cadeira Gamer;118;Notebook
+Impressora Wi-Fi;20;Smartphone
+Micro-ondas;124;Projetor Portatil
+Smart TV;40;Geladeira Inverter
+Micro-ondas;94;Caixa de Som Bluetooth
+Tenis Casual;122;Maquina de Lavar Roupa
+Monitor LED;187;Smart TV
+Ventilador;140;Projetor Portatil
+Fone de Ouvido;130;Teclado Mecanico
+Smartphone;37;Micro-ondas
+Caixa de Som Bluetooth;181;Tenis de Corrida
+Liquidificador;139;Smartphone
+Monitor LED;173;Smart TV
+Bicicleta Eletrica;194;Camera Digital
+Tenis Casual;158;Impressora Wi-Fi
+Smartphone;142;Monitor LED
+Tenis de Corrida;66;Aspirador de Po
+Fogao 4 Bocas;31;Liquidificador
+Patins In-Line;180;Relogio Inteligente
+Mochila Executiva;140;Monitor LED
+Cadeira Gamer;25;Fogao 4 Bocas
+Mochila Executiva;123;Bicicleta Eletrica
+Teclado Mecanico;165;Fogao 4 Bocas
+Tenis Casual;133;Projetor Portatil
+Fone de Ouvido;60;Maquina de Lavar Roupa
+Bicicleta Eletrica;101;Mochila Executiva
+Impressora Wi-Fi;18;Relogio Inteligente
+Ventilador;120;Mouse Gamer
+Monitor LED;112;Patins In-Line
+Teclado Mecanico;161;Console de Videogame
+Camera Digital;108;Impressora Wi-Fi
+Jaqueta Corta-Vento;195;Monitor LED
+Console de Videogame;47;Liquidificador
+Relogio Inteligente;95;Patins In-Line
+Console de Videogame;156;Bicicleta Eletrica
+Liquidificador;12;Ventilador
+Impressora Wi-Fi;187;Bicicleta Eletrica
+Caixa de Som Bluetooth;119;Aspirador de Po
+Fone de Ouvido;67;Micro-ondas
+Monitor LED;156;Maquina de Lavar Roupa
+Ar Condicionado;177;Impressora Wi-Fi
+Tenis de Corrida;43;Liquidificador
+Jaqueta Corta-Vento;150;Projetor Portatil
+Ar Condicionado;128;Monitor LED
+Micro-ondas;118;Ar Condicionado
+Maquina de Lavar Roupa;103;Tablet
+Jaqueta Corta-Vento;35;Aspirador de Po
+Mochila Executiva;177;Ar Condicionado
+Cadeira Gamer;158;Tenis Casual
+Tenis Casual;135;Maquina de Lavar Roupa
+Ar Condicionado;59;Micro-ondas
+Tablet;68;Fogao 4 Bocas
+Smart TV;141;Relogio Inteligente
+Geladeira Inverter;82;Monitor LED
+Micro-ondas;125;Smartphone
+Bicicleta Eletrica;82;Patins In-Line
+Caixa de Som Bluetooth;132;Bicicleta Eletrica
+Patins In-Line;141;Tenis Casual
+Tablet;143;Cadeira Gamer
+Relogio Inteligente;152;Tablet
+Mouse Gamer;107;Tablet
+Teclado Mecanico;190;Mochila Executiva
+Bicicleta Eletrica;171;Jaqueta Corta-Vento
+Impressora Wi-Fi;123;Ar Condicionado
+Impressora Wi-Fi;194;Caixa de Som Bluetooth
+Smartphone;135;Notebook
+Relogio Inteligente;136;Cadeira Gamer
+Patins In-Line;177;Aspirador de Po
+Cadeira Gamer;121;Camera Digital
+Projetor Portatil;188;Cadeira Gamer
+Ventilador;175;Tablet
+Ventilador;153;Cafeteira Eletrica
+Fogao 4 Bocas;156;Tablet
+Liquidificador;143;Impressora Wi-Fi
+Tablet;116;Maquina de Lavar Roupa
+Caixa de Som Bluetooth;39;Cafeteira Eletrica
+Tenis de Corrida;160;Jaqueta Corta-Vento
+Cafeteira Eletrica;100;Teclado Mecanico
+Patins In-Line;144;Tablet
+Geladeira Inverter;121;Console de Videogame
+Caixa de Som Bluetooth;111;Tenis de Corrida
+Ar Condicionado;96;Monitor LED
+Projetor Portatil;98;Bicicleta Eletrica
+Teclado Mecanico;78;Relogio Inteligente
+Tablet;134;Liquidificador
+Projetor Portatil;58;Tenis de Corrida
+Teclado Mecanico;174;Ventilador
+Relogio Inteligente;160;Caixa de Som Bluetooth
+Console de Videogame;29;Caixa de Som Bluetooth
+Fogao 4 Bocas;74;Smart TV
+Cadeira Gamer;161;Tenis de Corrida
+Geladeira Inverter;43;Liquidificador
+Maquina de Lavar Roupa;86;Camera Digital
+Caixa de Som Bluetooth;64;Cadeira Gamer
+Jaqueta Corta-Vento;15;Tenis de Corrida
+Console de Videogame;30;Ar Condicionado
+Impressora Wi-Fi;195;Tenis Casual
+Console de Videogame;80;Micro-ondas
+Fogao 4 Bocas;174;Mochila Executiva
+Aspirador de Po;57;Smartphone
+Caixa de Som Bluetooth;97;Monitor LED
+Aspirador de Po;106;Relogio Inteligente
+Ventilador;22;Patins In-Line
+Patins In-Line;168;Ar Condicionado
+Projetor Portatil;138;Monitor LED
+Smartphone;197;Projetor Portatil
+Cadeira Gamer;14;Relogio Inteligente
+Mouse Gamer;158;Tenis Casual
+Micro-ondas;140;Geladeira Inverter
+Ventilador;95;Mochila Executiva
+Geladeira Inverter;41;Maquina de Lavar Roupa
+Geladeira Inverter;183;Mouse Gamer
+Ventilador;140;Micro-ondas
+Aspirador de Po;145;Liquidificador
+Geladeira Inverter;159;Cafeteira Eletrica
+Cafeteira Eletrica;195;Fogao 4 Bocas
+Patins In-Line;76;Ar Condicionado
+Tenis de Corrida;162;Aspirador de Po
+Patins In-Line;84;Ar Condicionado
+Impressora Wi-Fi;144;Tenis Casual
+Console de Videogame;30;Monitor LED
+Liquidificador;141;Patins In-Line
+Cadeira Gamer;49;Cafeteira Eletrica
+Fone de Ouvido;31;Caixa de Som Bluetooth
+Ar Condicionado;29;Cadeira Gamer
+Liquidificador;35;Impressora Wi-Fi
+Jaqueta Corta-Vento;61;Cadeira Gamer
+Cadeira Gamer;83;Camera Digital
+Fogao 4 Bocas;37;Cadeira Gamer
+Fone de Ouvido;200;Relogio Inteligente
+Projetor Portatil;193;Notebook
+Fone de Ouvido;182;Micro-ondas
+Patins In-Line;66;Mouse Gamer
+Ventilador;190;Liquidificador
+Cafeteira Eletrica;72;Mouse Gamer
+Tenis Casual;141;Tenis de Corrida
+Caixa de Som Bluetooth;64;Aspirador de Po
+Mouse Gamer;155;Cadeira Gamer
+Monitor LED;102;Tenis Casual
+Patins In-Line;35;Impressora Wi-Fi
+Caixa de Som Bluetooth;133;Ar Condicionado
+Caixa de Som Bluetooth;121;Tablet
+Tablet;114;Cadeira Gamer
+Micro-ondas;68;Patins In-Line
+Jaqueta Corta-Vento;171;Smart TV
+Monitor LED;59;Fone de Ouvido
+Caixa de Som Bluetooth;113;Smartphone
+Liquidificador;62;Caixa de Som Bluetooth
+Fogao 4 Bocas;78;Teclado Mecanico
+Cadeira Gamer;110;Micro-ondas
+Smart TV;64;Mouse Gamer
+Tenis Casual;65;Micro-ondas
+Notebook;28;Mouse Gamer
+Tenis de Corrida;136;Aspirador de Po
+Patins In-Line;197;Tenis de Corrida
+Liquidificador;196;Smart TV
+Tablet;98;Tenis Casual
+Tenis de Corrida;189;Bicicleta Eletrica
+Mochila Executiva;86;Tenis Casual
+Maquina de Lavar Roupa;71;Tenis de Corrida
+Tenis Casual;186;Cadeira Gamer
+Geladeira Inverter;117;Aspirador de Po
+Patins In-Line;176;Relogio Inteligente
+Monitor LED;182;Smartphone
+Teclado Mecanico;199;Bicicleta Eletrica
+Projetor Portatil;185;Bicicleta Eletrica
+Projetor Portatil;33;Geladeira Inverter
+Ar Condicionado;200;Relogio Inteligente
+Bicicleta Eletrica;191;Smart TV
+Notebook;109;Projetor Portatil
+Aspirador de Po;109;Cafeteira Eletrica
+Smart TV;53;Mochila Executiva
+Notebook;141;Aspirador de Po
+Caixa de Som Bluetooth;119;Ar Condicionado
+Tablet;18;Fone de Ouvido
+Aspirador de Po;182;Relogio Inteligente
+Mouse Gamer;143;Geladeira Inverter
+Bicicleta Eletrica;182;Cafeteira Eletrica
+Fogao 4 Bocas;150;Jaqueta Corta-Vento
+Smartphone;37;Monitor LED
+Aspirador de Po;91;Teclado Mecanico
+Aspirador de Po;162;Monitor LED
+Micro-ondas;168;Aspirador de Po
+Tenis de Corrida;65;Impressora Wi-Fi
+Tenis de Corrida;98;Smart TV
+Geladeira Inverter;127;Bicicleta Eletrica
+Geladeira Inverter;159;Tenis Casual
+Liquidificador;65;Mouse Gamer
+Tenis de Corrida;121;Ar Condicionado
+Ventilador;135;Tenis Casual
+Tablet;95;Aspirador de Po
+Bicicleta Eletrica;67;Camera Digital
+Geladeira Inverter;37;Monitor LED
+Impressora Wi-Fi;123;Smartphone
+Micro-ondas;139;Fogao 4 Bocas
+Tablet;86;Smartphone
+Caixa de Som Bluetooth;186;Projetor Portatil
+Geladeira Inverter;199;Patins In-Line
+Teclado Mecanico;100;Relogio Inteligente
+Relogio Inteligente;158;Fone de Ouvido
+Impressora Wi-Fi;158;Patins In-Line
+Smartphone;179;Impressora Wi-Fi
+Cafeteira Eletrica;162;Liquidificador
+Bicicleta Eletrica;98;Liquidificador
+Micro-ondas;111;Caixa de Som Bluetooth
+Tenis de Corrida;43;Impressora Wi-Fi
+Jaqueta Corta-Vento;80;Aspirador de Po
+Patins In-Line;122;Cadeira Gamer
+Mouse Gamer;90;Tablet
+Console de Videogame;170;Tenis de Corrida
+Mochila Executiva;47;Mouse Gamer
+Jaqueta Corta-Vento;152;Geladeira Inverter
+Camera Digital;75;Liquidificador
+Ventilador;135;Caixa de Som Bluetooth
+Smartphone;38;Impressora Wi-Fi
+Geladeira Inverter;117;Teclado Mecanico
+Tenis Casual;97;Caixa de Som Bluetooth
+Cafeteira Eletrica;112;Projetor Portatil
+Liquidificador;126;Tablet
+Fogao 4 Bocas;118;Caixa de Som Bluetooth
+Mouse Gamer;72;Console de Videogame
+Impressora Wi-Fi;146;Camera Digital
+Fone de Ouvido;194;Fogao 4 Bocas
+Cafeteira Eletrica;65;Tablet
+Liquidificador;75;Smart TV
+Jaqueta Corta-Vento;173;Console de Videogame
+Ventilador;191;Jaqueta Corta-Vento
+Notebook;16;Projetor Portatil
+Mochila Executiva;126;Micro-ondas
+Micro-ondas;166;Notebook
+Micro-ondas;49;Projetor Portatil
+Ar Condicionado;71;Maquina de Lavar Roupa
+Jaqueta Corta-Vento;86;Mouse Gamer
+Ar Condicionado;139;Monitor LED
+Mochila Executiva;129;Cadeira Gamer
+Camera Digital;127;Smart TV
+Geladeira Inverter;130;Aspirador de Po
+Smartphone;175;Aspirador de Po
+Bicicleta Eletrica;38;Fone de Ouvido
+Teclado Mecanico;63;Impressora Wi-Fi
+Projetor Portatil;16;Impressora Wi-Fi
+Ar Condicionado;167;Camera Digital
+Jaqueta Corta-Vento;124;Ventilador
+Camera Digital;153;Caixa de Som Bluetooth
+Console de Videogame;199;Cafeteira Eletrica
+Mouse Gamer;123;Tenis Casual
+Micro-ondas;57;Maquina de Lavar Roupa
+Impressora Wi-Fi;53;Bicicleta Eletrica
+Relogio Inteligente;13;Cadeira Gamer
+Ar Condicionado;114;Mouse Gamer
+Caixa de Som Bluetooth;167;Micro-ondas
+Impressora Wi-Fi;101;Geladeira Inverter
+Jaqueta Corta-Vento;180;Cadeira Gamer
+Console de Videogame;89;Tablet
+Teclado Mecanico;102;Ar Condicionado
+Caixa de Som Bluetooth;78;Impressora Wi-Fi
+Jaqueta Corta-Vento;58;Camera Digital
+Jaqueta Corta-Vento;176;Smart TV
+Jaqueta Corta-Vento;183;Patins In-Line
+Relogio Inteligente;58;Liquidificador
+Caixa de Som Bluetooth;16;Jaqueta Corta-Vento
+Teclado Mecanico;182;Camera Digital
+Patins In-Line;140;Cafeteira Eletrica
+Projetor Portatil;152;Camera Digital
+Console de Videogame;143;Camera Digital
+Monitor LED;119;Jaqueta Corta-Vento
+Aspirador de Po;58;Camera Digital
+Tenis de Corrida;120;Notebook
+Ar Condicionado;61;Console de Videogame
+Notebook;185;Tenis Casual
+Relogio Inteligente;184;Tenis de Corrida
+Tenis Casual;153;Camera Digital
+Tenis de Corrida;118;Fogao 4 Bocas
+Notebook;29;Tenis de Corrida
+Tablet;112;Micro-ondas
+Notebook;185;Impressora Wi-Fi
+Projetor Portatil;147;Patins In-Line
+Fogao 4 Bocas;12;Mouse Gamer
+Mochila Executiva;78;Fogao 4 Bocas
+Cafeteira Eletrica;118;Micro-ondas
+Patins In-Line;183;Ventilador
+Projetor Portatil;95;Console de Videogame
+Geladeira Inverter;128;Cafeteira Eletrica
+Caixa de Som Bluetooth;164;Mouse Gamer
+Liquidificador;24;Ar Condicionado
+Smartphone;110;Impressora Wi-Fi
+Relogio Inteligente;199;Cafeteira Eletrica
+Ventilador;16;Geladeira Inverter
+Tenis Casual;90;Smart TV
+Smartphone;90;Cafeteira Eletrica
+Patins In-Line;164;Relogio Inteligente
+Mouse Gamer;174;Tablet
+Projetor Portatil;118;Micro-ondas
+Cafeteira Eletrica;165;Teclado Mecanico
+Projetor Portatil;61;Ar Condicionado
+Mochila Executiva;137;Camera Digital
+Projetor Portatil;35;Ar Condicionado
+Tablet;97;Notebook
+Notebook;97;Smart TV
+Fone de Ouvido;62;Camera Digital
+Cadeira Gamer;54;Micro-ondas
+Cafeteira Eletrica;170;Tenis Casual
+Fogao 4 Bocas;169;Camera Digital
+Tenis de Corrida;115;Caixa de Som Bluetooth
+Notebook;190;Projetor Portatil
+Mochila Executiva;110;Notebook
+Caixa de Som Bluetooth;100;Mochila Executiva
+Impressora Wi-Fi;188;Ventilador
+Camera Digital;199;Mouse Gamer
+Tenis Casual;189;Bicicleta Eletrica
+Console de Videogame;49;Micro-ondas
+Mouse Gamer;159;Cadeira Gamer
+Camera Digital;200;Cafeteira Eletrica
+Projetor Portatil;109;Ar Condicionado
+Mouse Gamer;77;Smart TV
+Mouse Gamer;159;Liquidificador
+Monitor LED;36;Micro-ondas
+Mouse Gamer;22;Micro-ondas
+Liquidificador;103;Patins In-Line
+Notebook;187;Tenis Casual
+Liquidificador;146;Geladeira Inverter
+Cadeira Gamer;56;Caixa de Som Bluetooth
+Cadeira Gamer;155;Ar Condicionado
+Ventilador;12;Maquina de Lavar Roupa
+Fogao 4 Bocas;189;Geladeira Inverter
+Teclado Mecanico;198;Ar Condicionado
+Fone de Ouvido;117;Caixa de Som Bluetooth
+Relogio Inteligente;164;Ventilador
+Aspirador de Po;141;Mochila Executiva
+Console de Videogame;128;Bicicleta Eletrica
+Console de Videogame;94;Fogao 4 Bocas
+Ar Condicionado;178;Teclado Mecanico
+Fogao 4 Bocas;31;Geladeira Inverter
+Mouse Gamer;119;Jaqueta Corta-Vento
+Liquidificador;73;Impressora Wi-Fi
+Caixa de Som Bluetooth;96;Ventilador
+Ar Condicionado;78;Caixa de Som Bluetooth
+Cadeira Gamer;88;Projetor Portatil
+Monitor LED;61;Jaqueta Corta-Vento
+Smartphone;49;Jaqueta Corta-Vento
+Ar Condicionado;23;Relogio Inteligente
+Bicicleta Eletrica;98;Jaqueta Corta-Vento
+Smart TV;11;Aspirador de Po
+Bicicleta Eletrica;12;Liquidificador
+Tenis Casual;19;Ventilador
+Teclado Mecanico;49;Maquina de Lavar Roupa
+Tablet;81;Jaqueta Corta-Vento
+Notebook;15;Camera Digital
+Ventilador;64;Ar Condicionado
+Caixa de Som Bluetooth;118;Notebook
+Jaqueta Corta-Vento;68;Camera Digital
+Ar Condicionado;83;Cafeteira Eletrica
+Smart TV;107;Mouse Gamer
+Bicicleta Eletrica;27;Aspirador de Po
+Mochila Executiva;91;Ventilador
+Ventilador;189;Fogao 4 Bocas
+Mouse Gamer;97;Liquidificador
+Relogio Inteligente;104;Cadeira Gamer
+Caixa de Som Bluetooth;144;Tablet
+Cadeira Gamer;191;Smart TV
+Cafeteira Eletrica;131;Fone de Ouvido
+Fone de Ouvido;107;Smartphone
+Jaqueta Corta-Vento;25;Cafeteira Eletrica
+Mochila Executiva;117;Cafeteira Eletrica
+Teclado Mecanico;185;Cadeira Gamer
+Cafeteira Eletrica;15;Cadeira Gamer
+Maquina de Lavar Roupa;18;Liquidificador
+Aspirador de Po;169;Relogio Inteligente
+Jaqueta Corta-Vento;154;Geladeira Inverter
+Teclado Mecanico;185;Monitor LED
+Projetor Portatil;93;Micro-ondas
+Notebook;154;Camera Digital
+Tenis de Corrida;175;Teclado Mecanico
+Projetor Portatil;13;Mouse Gamer
+Console de Videogame;58;Ar Condicionado
+Relogio Inteligente;147;Geladeira Inverter
+Tenis Casual;33;Teclado Mecanico
+Jaqueta Corta-Vento;175;Ar Condicionado
+Caixa de Som Bluetooth;24;Impressora Wi-Fi
+Maquina de Lavar Roupa;94;Camera Digital
+Camera Digital;97;Cadeira Gamer
+Bicicleta Eletrica;143;Impressora Wi-Fi
+Impressora Wi-Fi;138;Bicicleta Eletrica
+Impressora Wi-Fi;29;Tablet
+Mouse Gamer;155;Console de Videogame
+Camera Digital;83;Ventilador
+Micro-ondas;54;Bicicleta Eletrica
+Projetor Portatil;149;Tenis de Corrida
+Geladeira Inverter;70;Relogio Inteligente
+Caixa de Som Bluetooth;185;Tenis Casual
+Micro-ondas;194;Tenis Casual
+Smart TV;121;Relogio Inteligente
+Notebook;37;Tenis de Corrida
+Liquidificador;34;Geladeira Inverter
+Cadeira Gamer;117;Camera Digital
+Tenis Casual;104;Jaqueta Corta-Vento
+Smartphone;195;Camera Digital
+Cafeteira Eletrica;58;Projetor Portatil
+Impressora Wi-Fi;109;Tenis de Corrida
+Tenis de Corrida;162;Tablet
+Aspirador de Po;173;Fogao 4 Bocas
+Maquina de Lavar Roupa;193;Liquidificador
+Tablet;14;Patins In-Line
+Relogio Inteligente;34;Monitor LED
+Fone de Ouvido;51;Ar Condicionado
+Fone de Ouvido;36;Liquidificador
+Console de Videogame;44;Bicicleta Eletrica
+Smartphone;46;Jaqueta Corta-Vento
+Mochila Executiva;131;Maquina de Lavar Roupa
+Notebook;111;Ventilador
+Micro-ondas;64;Tenis de Corrida
+Bicicleta Eletrica;196;Monitor LED
+Relogio Inteligente;126;Monitor LED
+Impressora Wi-Fi;65;Projetor Portatil
+Relogio Inteligente;58;Smartphone
+Bicicleta Eletrica;169;Impressora Wi-Fi
+Liquidificador;185;Impressora Wi-Fi
+Smart TV;63;Tablet
+Relogio Inteligente;23;Projetor Portatil
+Fone de Ouvido;199;Smart TV
+Ar Condicionado;113;Smartphone
+Ventilador;144;Cadeira Gamer
+Tenis de Corrida;92;Projetor Portatil
+Caixa de Som Bluetooth;145;Teclado Mecanico
+Micro-ondas;67;Cadeira Gamer
+Ar Condicionado;82;Smart TV
+Caixa de Som Bluetooth;191;Ventilador
+Fone de Ouvido;157;Mochila Executiva
+Mochila Executiva;131;Patins In-Line
+Cafeteira Eletrica;174;Caixa de Som Bluetooth
+Ar Condicionado;27;Patins In-Line
+Mouse Gamer;73;Camera Digital
+Smartphone;93;Jaqueta Corta-Vento
+Aspirador de Po;131;Camera Digital
+Mochila Executiva;149;Cafeteira Eletrica
+Jaqueta Corta-Vento;54;Cadeira Gamer
+Smartphone;40;Maquina de Lavar Roupa
+Ventilador;188;Teclado Mecanico
+Cadeira Gamer;90;Caixa de Som Bluetooth
+Tenis de Corrida;46;Tablet
+Cadeira Gamer;162;Relogio Inteligente
+Teclado Mecanico;35;Bicicleta Eletrica
+Cadeira Gamer;148;Smartphone
+Geladeira Inverter;57;Liquidificador
+Aspirador de Po;180;Projetor Portatil
+Mochila Executiva;30;Teclado Mecanico
+Micro-ondas;163;Console de Videogame
+Ar Condicionado;147;Jaqueta Corta-Vento
+Geladeira Inverter;192;Monitor LED
+Ventilador;52;Caixa de Som Bluetooth
+Maquina de Lavar Roupa;29;Console de Videogame
+Cadeira Gamer;85;Cafeteira Eletrica
+Mouse Gamer;13;Cafeteira Eletrica
+Fogao 4 Bocas;59;Monitor LED
+Teclado Mecanico;122;Caixa de Som Bluetooth
+Mochila Executiva;42;Ar Condicionado
+Caixa de Som Bluetooth;91;Smartphone
+Console de Videogame;83;Maquina de Lavar Roupa
+Fone de Ouvido;107;Aspirador de Po
+Camera Digital;12;Tenis Casual
+Notebook;103;Cadeira Gamer
+Fogao 4 Bocas;169;Aspirador de Po
+Ventilador;197;Impressora Wi-Fi
+Projetor Portatil;125;Ar Condicionado
+Ventilador;156;Maquina de Lavar Roupa
+Monitor LED;12;Smartphone
+Micro-ondas;80;Camera Digital
+Relogio Inteligente;101;Cadeira Gamer
+Cadeira Gamer;141;Ar Condicionado
+Tenis Casual;51;Jaqueta Corta-Vento
+Fone de Ouvido;89;Camera Digital
