@@ -46,9 +46,9 @@ public class RecommendationRepository {
     private List<Recommendation> readLinesFile() throws IOException {
         List<Recommendation> list = new ArrayList<>();
         try (BufferedReader br = new BufferedReader(new FileReader(FILE_PATH))) {
-            String linha;
-            while ((linha = br.readLine()) != null) {
-                String[] campos = linha.split(";");
+            String line;
+            while ((line = br.readLine()) != null) {
+                String[] campos = line.split(";");
                 if (campos.length == 3) {
                     list.add(new Recommendation(campos[0], campos[1], campos[2]));
                 }
