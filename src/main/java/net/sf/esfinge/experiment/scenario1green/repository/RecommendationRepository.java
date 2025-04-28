@@ -48,9 +48,9 @@ public class RecommendationRepository {
         try (BufferedReader br = new BufferedReader(new FileReader(FILE_PATH))) {
             String line;
             while ((line = br.readLine()) != null) {
-                String[] campos = line.split(";");
-                if (campos.length == 3) {
-                    list.add(new Recommendation(campos[0], campos[1], campos[2]));
+                String[] fields = line.split(";");
+                if (fields.length == 3) {
+                    list.add(new Recommendation(fields[0], fields[1], fields[2]));
                 }
             }
         }
