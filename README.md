@@ -1,4 +1,4 @@
-# 🛒 Product Recommendation System – GreenEsfinge Experiment
+# 🛒 Product Recommendation System – Greensfinge Experiment
 
 The project follows a simple architecture with a service and a test class for validating the recommendation logic.
 
