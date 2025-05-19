@@ -14,7 +14,6 @@ public class RecommendationRepository {
     private static final String FILE_PATH = "src/main/resources/fileRepository.txt";
 
     public void findProduct(StringBuilder sb) {
-        System.out.println("Method findProduct executed");
         try {
             List<Recommendation> recommendations = readLinesFile();
             sb.append(recommendations.get(0).getProduct());
@@ -24,7 +23,6 @@ public class RecommendationRepository {
     }
 
     public void findVisits(StringBuilder sb) {
-        System.out.println("Method findVisits executed");
         try {
             List<Recommendation> recommendations = readLinesFile();
             sb.append(recommendations.get(0).getViews());
@@ -34,7 +32,6 @@ public class RecommendationRepository {
     }
 
     public void findOtherProduct(StringBuilder sb) {
-        System.out.println("Method findOtherProduct executed");
         try {
             List<Recommendation> recommendations = readLinesFile();
             sb.append(recommendations.get(0).getOtherProduct());

@@ -4,17 +4,21 @@ The project follows a simple architecture with a service and a test class for va
 
 ## 📦 Project Structure
 
-The project follows a simple architecture with a `service` and an `entity`.
+The project follows a simple architecture with a service, entity and repository.
 
 ## ✅ Description
 
-- `service.RecommendationService`: Contains the business logic to format a recommendation message. The logic includes methods to retrieve a product, its visit count, and a suggestion for another product.
+- `entity.Recommendation`: Contains the business entity class.
+- `service.RecommendationService`: Contains the business logic to format a recommendation.
+- `repository.RecommendationRepository`: Simulates a database to search the values.
 
 The RecommendationService class can be "greenified" using `GreenFactory`, allowing its behavior to change based on energy-efficiency configurations.
 ## 🧪 Unit Tests
 
 The test class `RecommendationServiceTest` validates the behavior of the recommendation logic:
 
-- `testFindRecommendation`: Verifies that the original service correctly formats the recommendation message.
+In this task, you will see something like this, and the goal is to make all tests pass successfully.
 
-- `testFindRecommendationUsingGreenFramework`: Uses `GreenFactory.greenify` to dynamically modify the method’s behavior, demonstrating how the framework can alter execution to promote energy efficiency.
+> But remember, this applies only to finding the other product.
+> 
+![img.png](img.png)
