@@ -1,6 +1,6 @@
 # 🛒 Product Recommendation System – Greensfinge Experiment
 
-The project follows a simple architecture with a service and a test class for validating the recommendation logic.
+The project follows a simple architecture with a service and a test class for validating the recommendation logic. It is part of an experiment to demonstrate how energy-saving strategies can be integrated into Java applications using the **Greensfinge Framework**.
 
 ## 📦 Project Structure
 
