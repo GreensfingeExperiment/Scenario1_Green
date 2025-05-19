@@ -13,6 +13,13 @@ The project follows a simple architecture with a service, entity and repository.
 - `repository.RecommendationRepository`: Simulates a database to search the values.
 
 The RecommendationService class can be "greenified" using `GreenFactory`, allowing its behavior to change based on energy-efficiency configurations.
+
+### ❓ Remember the Task
+
+The search for the product and the number of visits is always mandatory, but the search for the "other product" is optional — so how can we ignore the execution to find the other product without actually invoking the business logic method?
+
+---
+
 ## 🧪 Unit Tests
 
 The test class `RecommendationServiceTest` validates the behavior of the recommendation logic:
