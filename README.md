@@ -12,11 +12,13 @@ The project follows a simple architecture with a service, entity and repository.
 - `service.RecommendationService`: Contains the business logic to format a recommendation.
 - `repository.RecommendationRepository`: Simulates a database to search the values.
 
-The RecommendationService class can be "greenified" using `GreenFactory`, allowing its behavior to change based on energy-efficiency configurations.
+The RecommendationRepository class can be "greenified" using `GreenFactory`, allowing its behavior to change based on energy-efficiency configurations.
 
-### ❓ Remember the Task
+### ❓ Task
 
-The search for the product and the number of visits is always mandatory, but the search for the "other product" is optional — so how can we ignore the execution to find the other product without actually invoking the business logic method?
+In the RecomendationService class, the method findRecomendation() search for the product and the number of visits. Currently this method also returns another product suggestion. To save energy when the user don't want to see his additional suggestion, you need to implement the functionality to make this second suggestion optional.
+
+To implement this functionality, when the new method saveConsumptionEnergy() is called with the parameter "true", the second suggestion should be disabled. The method saveConsumptionEnergy() is empty and you need to implement it as part of your task using the green framework.
 
 ---
 
@@ -24,8 +26,8 @@ The search for the product and the number of visits is always mandatory, but the
 
 The test class `RecommendationServiceTest` validates the behavior of the recommendation logic:
 
-In this task, you will see something like this, and the goal is to make all tests pass successfully.
+When you open the project, to make sure that everything is correctly configured, you need to run the tests and the result should be the one in the picture: one test will pass and the other not. When you make all tests pass successfully, your task is complete.
 
-> But remember, this applies only to finding the other product.
-> 
+> `IMPORTANT: You cannot change the test code!`
+
 ![img.png](img.png)

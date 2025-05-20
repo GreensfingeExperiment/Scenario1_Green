@@ -13,31 +13,21 @@ public class RecommendationRepository {
 
     private static final String FILE_PATH = "src/main/resources/fileRepository.txt";
 
-    public void findProduct(StringBuilder sb) {
-        try {
-            List<Recommendation> recommendations = readLinesFile();
-            sb.append(recommendations.get(0).getProduct());
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
+    public void findProduct(StringBuilder sb) throws IOException {
+        List<Recommendation> recommendations = readLinesFile();
+        sb.append(recommendations.get(0).getProduct());
     }
 
-    public void findVisits(StringBuilder sb) {
-        try {
-            List<Recommendation> recommendations = readLinesFile();
-            sb.append(recommendations.get(0).getViews());
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
+    public void findVisits(StringBuilder sb) throws IOException {
+        List<Recommendation> recommendations = readLinesFile();
+        sb.append(recommendations.get(0).getViews());
     }
 
-    public void findOtherProduct(StringBuilder sb) {
-        try {
-            List<Recommendation> recommendations = readLinesFile();
-            sb.append(recommendations.get(0).getOtherProduct());
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
+    public void findOtherProduct(StringBuilder sb) throws IOException {
+        List<Recommendation> recommendations = readLinesFile();
+        sb.append("\n Also check out ")
+            .append(recommendations.get(0).getOtherProduct())
+            .append("!");
     }
 
     private List<Recommendation> readLinesFile() throws IOException {
