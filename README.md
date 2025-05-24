@@ -30,4 +30,4 @@ When you open the project, to make sure that everything is correctly configured,
 
 <span style="color:red">IMPORTANT: You cannot change the test code!.</span>
 
-![img_1.png](img_1.png)
+![img_1.png](img.png)
